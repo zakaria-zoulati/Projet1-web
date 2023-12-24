@@ -345,5 +345,10 @@ body {
     }
 }
 
+#bar {
+    overflow: auto;
+}
+
+
 
 
