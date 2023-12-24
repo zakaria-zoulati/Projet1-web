@@ -345,8 +345,13 @@ body {
     }
 }
 
-.bar {
-    overflow: auto;
+
+/* for responsivness */
+
+@media (max-width:400px){
+    #txt1 ,#fl1 , #fl2 ,#fl3 , #txt2 , #y , #n , #y1 ,#n1 ,#y2 , #n2 ,#y3 , #n3 , #command , #expressions {
+        font-size: 16px;
+    }
 }
 
 
