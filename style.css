@@ -345,7 +345,7 @@ body {
     }
 }
 
-#bar {
+.bar {
     overflow: auto;
 }
 
